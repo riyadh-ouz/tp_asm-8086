@@ -1,3 +1,5 @@
+; TP 2: (suite)
+
 extrn lireDec: near
 extrn afficherDec: near
 

@@ -1,3 +1,5 @@
+; TP 2
+
 assume cs:code, ds:data
 
 data segment

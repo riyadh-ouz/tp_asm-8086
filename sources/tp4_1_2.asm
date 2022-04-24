@@ -1,3 +1,5 @@
+; TP 4: (suite)
+
 assume cs:code, ds:data, ss:pile
 
 pile segment stack

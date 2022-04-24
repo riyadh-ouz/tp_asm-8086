@@ -1,3 +1,5 @@
+; TP 1: Hello, World!
+
 assume ds:data, cs:code
 
 data segment ;Marque de debut du segment de donnees
